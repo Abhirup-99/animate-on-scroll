@@ -29,7 +29,7 @@ Desktop.ini
 **/.DS_Store
 
 # compiled files
-dist/
+dist/ng2-animate-on-scroll
 /compiled/
 *.metadata.json
 *.tgz
